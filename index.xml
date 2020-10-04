@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xeno Universe - The Dark Forest</title>
+    <link>/</link>
+    <description>Recent content on Xeno Universe - The Dark Forest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+    <lastBuildDate>Sat, 04 Jan 2020 18:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <!-- about me -->
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Sat, 04 Jan 2020 18:00:00 +0800</pubDate>
+      
+      <guid>/about/</guid>
+      <description>
+        java,scala,groovy,kotlin,python,ts
+      </description>
+    </item>
+    
+    <item>
+      <title>my first blog</title>
+      <link>/2020/06/websocket-guide/</link>
+      <pubDate>Mon, 07 Aug 2017 20:00:00 +0800</pubDate>
+      
+      <guid>/2020/06/websocket-guide/</guid>
+      <description>
+      
+      </description>
+    </item>
+    
+  </channel>
+</rss>
